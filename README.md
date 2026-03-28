@@ -69,17 +69,3 @@ L’application calcule automatiquement le statut de l’adhérent selon la date
 - mode clair / mode sombre
 - interface adaptée à Android et iOS
 
----
-
-## Captures d’écran
-
-Vous pouvez ajouter ici les captures d’écran de l’application.
-
-Exemple :
-
-```md
-![Dashboard](screenshots/dashboard.png)
-![Liste des adhérents](screenshots/members.png)
-![Détail adhérent](screenshots/member_details.png)
-![Paiements](screenshots/payments.png)
-![Scanner QR](screenshots/scanner.png)
